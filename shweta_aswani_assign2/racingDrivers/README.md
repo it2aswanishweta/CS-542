@@ -2,7 +2,7 @@
 ## Name: Shweta Prakash Aswani
 -----------------------------------------------------------------------
 ## Description
-In this program, we are calculating the state of mind of the driver whether its Reckless, Confident or Calculative. This calculation will be based on the driver position and total number of drivers.
+In this program, we are implementing the state pattern. Here, we are calculating the state of mind of the driver whether its Reckless, Confident or Calculative. This calculation will be based on the driver position and total number of drivers.
 The total number of drivers will be the first line in the input file. Each subsequent line will specify the distance covered by each driver in each minute. The output file will show the state of each driver in every minute.
 
 -----------------------------------------------------------------------
