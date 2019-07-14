@@ -45,7 +45,7 @@ public class MyArrayList
 
 	public void insertSorted(int newValue){
 
-		if (newValue >= 0 && newValue <= 1000) //this is for checking the value is in range
+		if (newValue >= 0 && newValue <= 10000) //this is for checking the value is in range
 		{
 			
 			//Checking the input size of the array before inserting, become equal to 50 than make it more by 50%
