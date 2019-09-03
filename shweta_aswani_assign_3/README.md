@@ -3,7 +3,7 @@
 -----------------------------------------------------------------------
 ## Description
 
-In this program, we are creating a tree which store the B-Number (4 digits int) and an arraylist of courses names (strings). The tree should be able to insert and search nodes. It should be able to delete the courses not the nodes. While creating or insertinga new node, it should be cloned twice. This program implements the observer pattern where the parent tree is the subject and will notify about the changes to its two children who are the observers.
+In this program, we are creating a tree which store the B-Number (4 digits int) and an arraylist of courses names (strings). The tree should be able to insert and search nodes. It should be able to delete the courses not the nodes. While creating or inserting a new node, it should be cloned twice. This program implements the observer pattern where the parent tree is the subject and will notify about the changes to its two children who are the observers.
 
 -----------------------------------------------------------------------
 Following are the commands and the instructions to run ANT on your project.
