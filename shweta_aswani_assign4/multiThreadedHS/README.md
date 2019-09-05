@@ -1,6 +1,6 @@
 ##Description
 
-In this assignment, we create threads to read from the input files provided in the command line and store in the appropriate data structure where the data should be sorted. There is another data structure for Results.java where the threads insert the values in the first available slot. We use the synchronized method in Results.java to insert the values.
+In this assignment, we create threads to read from the input files provided in the command line and store in the appropriate data structure where the data should be sorted. There is another data structure for Results.java where the threads insert the values in the first available slot. We use the synchronized method in Results.java to insert the values. We perform Merge sort on the data stored in Results.java and then the data is stored in output.txt
 
 ---------------------------------------------------------------
 ##Commands and the instructions to run ANT on your project.
